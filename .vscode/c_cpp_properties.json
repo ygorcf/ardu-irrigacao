@@ -17,6 +17,9 @@
             "includePath": [
                 "/home/ygor/Downloads/arduino-1.8.19-linux64/arduino-1.8.19/hardware/arduino/avr/cores/arduino",
                 "/home/ygor/Downloads/arduino-1.8.19-linux64/arduino-1.8.19/hardware/arduino/avr/variants/standard",
+                "/home/ygor/Arduino/libraries/AceTime/src",
+                "/home/ygor/Arduino/libraries/AceCommon/src",
+                "/home/ygor/Arduino/libraries/AceSorting/src",
                 "/home/ygor/Downloads/arduino-1.8.19-linux64/arduino-1.8.19/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
                 "/home/ygor/Downloads/arduino-1.8.19-linux64/arduino-1.8.19/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
                 "/home/ygor/Downloads/arduino-1.8.19-linux64/arduino-1.8.19/hardware/tools/avr/avr/include"
